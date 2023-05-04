@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+## Login and Registration using Firebase 
+
+This quick and simple application contains a working login and registration feature with a functional profile page. 
+
+## Quick Glimpse of Application 
+
+<img width="800" alt="register" src="https://user-images.githubusercontent.com/67939160/236269992-f4365cac-31a3-47b6-8f11-17f7fb8f6e34.png">
+
+<img width="800" alt="login" src="https://user-images.githubusercontent.com/67939160/236270041-4b4ab13f-f364-4900-9e0b-4606fd1be696.png">
+
+<img width="800" alt="profilePage" src="https://user-images.githubusercontent.com/67939160/236270053-52dc9b0b-cd60-4605-beca-e5bfdc506efb.png">
+
+
+## Technology Used 
+
+HTML, SCSS 
+JavaScript 
+Firebase for authentication 
+
+
+
+# Running React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
