@@ -14,8 +14,8 @@ This quick and simple application contains a working login and registration feat
 ## Technology Used 
 
 HTML, SCSS 
-JavaScript 
-Firebase for authentication 
+,JavaScript 
+, and Firebase for authentication 
 
 
 
